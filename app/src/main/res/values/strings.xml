@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SiKepah</string>
+    <string name="kategori_sampah">Kategori Sampah</string>
+
+    //Kategori Sampah
+    <string name="KategoriSampah1">PLASTIK</string>
+    <string name="KategoriSampah2">KERTAS</string>
+    <string name="KategoriSampah3">METAL</string>
+    <string name="KategoriSampah4">KACA</string>
+    <string name="KategoriSampah5">ELEKTRONIK</string>
+
+    //Penjelasan sampah
+    <string name="organik_description">Organik mengacu pada bahan-bahan yang berasal dari organisme hidup atau pernah hidup, dan dapat terurai secara alami oleh proses biologis. Contoh bahan organik termasuk sisa makanan, dedaunan, atau bahkan kotoran hewan. Bahan organik sering kali dapat didaur ulang menjadi kompos untuk meningkatkan kesuburan tanah.</string>
+    <string name="anorganik_description">Anorganik adalah bahan-bahan yang tidak berasal dari makhluk hidup atau tidak mengandung karbon hidrat. Contohnya termasuk logam seperti besi, mineral seperti garam, dan material sintetis seperti plastik. Bahan-bahan ini tidak dapat diurai dengan mudah oleh alam.</string>
+    <string name="sampah_b3_description">Sampah B3 adalah istilah untuk sampah berbahaya dan beracun. Singkatnya, ini adalah limbah yang dapat membahayakan kesehatan manusia atau lingkungan jika tidak dikelola dengan benar. Contohnya termasuk bahan kimia beracun, limbah medis, atau material berbahaya lainnya seperti baterai bekas atau cat beracun. Penanganan dan pembuangan sampah B3 harus dilakukan dengan hati-hati sesuai dengan peraturan lingkungan yang berlaku.</string>
+    <string name="sampah_kertas_description">Sampah kertas adalah limbah yang terdiri dari produk-produk kertas yang sudah tidak terpakai lagi, seperti kertas bekas, kardus, koran, dan majalah. Limbah ini dapat didaur ulang untuk mengurangi limbah dan memanfaatkan kembali bahan baku kertas.</string>
+    <string name="sampah_residu_description">Sampah residu adalah jenis sampah yang tersisa setelah proses pengolahan sampah lainnya dilakukan, seperti daur ulang atau pemrosesan. Biasanya, sampah residu tidak dapat didaur ulang atau diolah lebih lanjut dengan cara yang efisien dan umumnya akan dikirim ke tempat pembuangan akhir seperti TPA (Tempat Pembuangan Akhir). Ini termasuk sisa-sisa yang tidak bisa terurai dengan mudah seperti sampah plastik yang sulit didaur ulang.</string>
+
+    //Nama Jenis Sampah
+    <string name="organik">ORGANIK</string>
+    <string name="anorganik">ANORGANIK</string>
+    <string name="sampah_b3">SAMPAH B3</string>
+    <string name="sampah_kertas">SAMPAH KERTAS</string>
+    <string name="sampah_residu">SAMPAH RESIDU</string>
+
+
+
+
+
+
+</resources>
